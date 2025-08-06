@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- HUFLIT<br>-Graduate with good grades<br>- I’m currently working on web app project<br>- I’m currently learning about C# .NET, Angular, NextJS<br>
+<br>- HUFLIT<br>- Graduate with good grades<br>- I’m currently working on web app project<br>- I’m currently learning about C# .NET, Angular, NextJS<br>
 
 
 # 💻 Tech Stack:
